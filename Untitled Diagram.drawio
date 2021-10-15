@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T06:29:59.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TiZWPfXtm6-KV0JykW6r" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T06:31:05.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="aHFFWxRdVOInbjVc-YaY" version="15.5.2" type="github">
   <diagram id="6iDU32mY2Nc6CBhis08E" name="Page-1">
     <mxGraphModel dx="2297" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,6 +126,9 @@
         <mxCell id="aXDBIrbwVsfuyC3R2ou0-55" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;f&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0&quot;&gt;system_folder&lt;/span&gt;.&lt;span style=&quot;color: #9cdcfe&quot;&gt;YI_FOLDER&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;openo&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;testno&lt;/span&gt;&lt;span style=&quot;color: #569cd6&quot;&gt;}&lt;/span&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;_fake.csv&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="435" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aXDBIrbwVsfuyC3R2ou0-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CC66;strokeWidth=4;" edge="1" parent="1" source="aXDBIrbwVsfuyC3R2ou0-58" target="aXDBIrbwVsfuyC3R2ou0-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aXDBIrbwVsfuyC3R2ou0-58" value="N36.py" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="720" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -135,13 +138,8 @@
         <mxCell id="aXDBIrbwVsfuyC3R2ou0-59" value="&#xa;&#xa;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: consolas, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4ec9b0&quot;&gt;pd&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #dcdcaa&quot;&gt;read_csv&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #4ec9b0&quot;&gt;input_file&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;PICKUP&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="653" y="290" width="255" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aXDBIrbwVsfuyC3R2ou0-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#D79B00;strokeWidth=4;" edge="1" parent="1" source="aXDBIrbwVsfuyC3R2ou0-64">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aXDBIrbwVsfuyC3R2ou0-64" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;span style=&quot;color: #9cdcfe&quot;&gt;tracemap_file&lt;/span&gt; = &lt;span style=&quot;color: #ce9178&quot;&gt;&quot;../data/input_data/BiCS6/A/map_tracking/tracemap.csv&quot;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="290" width="470" height="60" as="geometry" />
+          <mxGeometry x="890" y="400" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
